@@ -1,0 +1,22 @@
+.footer{
+    background-color: #18162d;
+    height: 200px;
+    position: absolute;
+    width: 100%;
+    color: white;
+    text-align: left;
+}
+
+
+.fut{
+    top: 80px;
+    left: 450px;
+    display: flex;
+    position: absolute;
+    color: grey;
+}
+
+.ig{
+    left: 900px;
+    position: absolute;
+}
